@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#container {
+    margin-top: 100px;
+}
+
+h1 {
+    color: #333;
+}
+
+#code {
+    font-size: 24px;
+}
+
+#codeButton {
+    padding: 10px 20px;
+    background-color: #008CBA;
+    color: #FFF;
+    font-size: 18px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
